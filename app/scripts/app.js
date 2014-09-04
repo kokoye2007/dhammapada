@@ -12,7 +12,8 @@ angular
   .module('dhammapadaApp', [
     'ngResource',
     'ngRoute',
-    'ngTouch'
+    'ngTouch',
+    'services.dataProvider'
   ])
   .config(function ($routeProvider) {
     $routeProvider
@@ -20,9 +21,9 @@ angular
         templateUrl: 'views/main.html',
         controller: 'MainCtrl'
       })
-      .when('/about', {
-        templateUrl: 'views/about.html',
-        controller: 'AboutCtrl'
+      .when('/chapter/:chapter/verse/:verse', {
+        templateUrl: 'views/chapter.html',
+        controller: 'ChapterCtrl'
       })
       .otherwise({
         redirectTo: '/'

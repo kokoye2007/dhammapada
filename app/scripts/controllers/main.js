@@ -8,10 +8,6 @@
  * Controller of the dhammapadaApp
  */
 angular.module('dhammapadaApp')
-  .controller('MainCtrl', function ($scope) {
-    $scope.awesomeThings = [
-      'HTML5 Boilerplate',
-      'AngularJS',
-      'Karma'
-    ];
-  });
+.controller('MainCtrl', function ($scope, dataProvider) {
+  $scope.Book = dataProvider.Dhammapada.get();
+});
