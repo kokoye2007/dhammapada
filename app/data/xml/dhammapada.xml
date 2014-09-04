@@ -1,0 +1,212 @@
+<Dhammapada xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.dhammasukha.org/dhammapada">
+  <Chapters>
+    <Chapter>
+      <FirstParagraph>1</FirstParagraph>
+      <LastParagraph>20</LastParagraph>
+      <Nr>1</Nr>
+      <Pali>Yamaka Vagga</Pali>
+      <Title>The Twin Verses</Title>
+      <Verses />
+    </Chapter>
+    <Chapter>
+      <FirstParagraph>21</FirstParagraph>
+      <LastParagraph>32</LastParagraph>
+      <Nr>2</Nr>
+      <Pali>Appamada Vagga</Pali>
+      <Title>Heedfulness</Title>
+      <Verses />
+    </Chapter>
+    <Chapter>
+      <FirstParagraph>33</FirstParagraph>
+      <LastParagraph>43</LastParagraph>
+      <Nr>3</Nr>
+      <Pali>Citta Vagga</Pali>
+      <Title>Mind</Title>
+      <Verses />
+    </Chapter>
+    <Chapter>
+      <FirstParagraph>44</FirstParagraph>
+      <LastParagraph>59</LastParagraph>
+      <Nr>4</Nr>
+      <Pali>Puppha Vagga</Pali>
+      <Title>Flowers</Title>
+      <Verses />
+    </Chapter>
+    <Chapter>
+      <FirstParagraph>60</FirstParagraph>
+      <LastParagraph>75</LastParagraph>
+      <Nr>5</Nr>
+      <Pali>Bala Vagga</Pali>
+      <Title>Fools</Title>
+      <Verses />
+    </Chapter>
+    <Chapter>
+      <FirstParagraph>76</FirstParagraph>
+      <LastParagraph>89</LastParagraph>
+      <Nr>6</Nr>
+      <Pali>Pandita Vagga</Pali>
+      <Title>The Wise</Title>
+      <Verses />
+    </Chapter>
+    <Chapter>
+      <FirstParagraph>90</FirstParagraph>
+      <LastParagraph>99</LastParagraph>
+      <Nr>7</Nr>
+      <Pali>Arahanta Vagga</Pali>
+      <Title>The Worthy</Title>
+      <Verses />
+    </Chapter>
+    <Chapter>
+      <FirstParagraph>100</FirstParagraph>
+      <LastParagraph>115</LastParagraph>
+      <Nr>8</Nr>
+      <Pali>Sahassa Vagga</Pali>
+      <Title>Thousands</Title>
+      <Verses />
+    </Chapter>
+    <Chapter>
+      <FirstParagraph>116</FirstParagraph>
+      <LastParagraph>128</LastParagraph>
+      <Nr>9</Nr>
+      <Pali>Pāpa Vagga</Pali>
+      <Title>Evil</Title>
+      <Verses />
+    </Chapter>
+    <Chapter>
+      <FirstParagraph>129</FirstParagraph>
+      <LastParagraph>145</LastParagraph>
+      <Nr>10</Nr>
+      <Pali>Daṇóa Vagga</Pali>
+      <Title>The Rod Or Punishment</Title>
+      <Verses />
+    </Chapter>
+    <Chapter>
+      <FirstParagraph>146</FirstParagraph>
+      <LastParagraph>156</LastParagraph>
+      <Nr>11</Nr>
+      <Pali>Jarā Vagga</Pali>
+      <Title>Old Age</Title>
+      <Verses />
+    </Chapter>
+    <Chapter>
+      <FirstParagraph>157</FirstParagraph>
+      <LastParagraph>166</LastParagraph>
+      <Nr>12</Nr>
+      <Pali>Atta Vagga</Pali>
+      <Title>The Self</Title>
+      <Verses />
+    </Chapter>
+    <Chapter>
+      <FirstParagraph>167</FirstParagraph>
+      <LastParagraph>178</LastParagraph>
+      <Nr>13</Nr>
+      <Pali>Loka Vagga</Pali>
+      <Title>The World</Title>
+      <Verses />
+    </Chapter>
+    <Chapter>
+      <FirstParagraph>179</FirstParagraph>
+      <LastParagraph>196</LastParagraph>
+      <Nr>14</Nr>
+      <Pali>Buddha Vagga</Pali>
+      <Title>The Buddha</Title>
+      <Verses />
+    </Chapter>
+    <Chapter>
+      <FirstParagraph>197</FirstParagraph>
+      <LastParagraph>208</LastParagraph>
+      <Nr>15</Nr>
+      <Pali>Sukha Vagga</Pali>
+      <Title>Happiness</Title>
+      <Verses />
+    </Chapter>
+    <Chapter>
+      <FirstParagraph>209</FirstParagraph>
+      <LastParagraph>220</LastParagraph>
+      <Nr>16</Nr>
+      <Pali>Piya Vagga</Pali>
+      <Title>Affection</Title>
+      <Verses />
+    </Chapter>
+    <Chapter>
+      <FirstParagraph>221</FirstParagraph>
+      <LastParagraph>234</LastParagraph>
+      <Nr>17</Nr>
+      <Pali>Kodha Vagga</Pali>
+      <Title>Anger</Title>
+      <Verses />
+    </Chapter>
+    <Chapter>
+      <FirstParagraph>235</FirstParagraph>
+      <LastParagraph>255</LastParagraph>
+      <Nr>18</Nr>
+      <Pali>Mala Vagga</Pali>
+      <Title>Impurities Or Taints</Title>
+      <Verses />
+    </Chapter>
+    <Chapter>
+      <FirstParagraph>256</FirstParagraph>
+      <LastParagraph>272</LastParagraph>
+      <Nr>19</Nr>
+      <Pali>Dhammaññha Vagga</Pali>
+      <Title>The Just Or Righteous</Title>
+      <Verses />
+    </Chapter>
+    <Chapter>
+      <FirstParagraph>273</FirstParagraph>
+      <LastParagraph>289</LastParagraph>
+      <Nr>20</Nr>
+      <Pali>Magga Vagga</Pali>
+      <Title>The Way Or The Path</Title>
+      <Verses />
+    </Chapter>
+    <Chapter>
+      <FirstParagraph>290</FirstParagraph>
+      <LastParagraph>305</LastParagraph>
+      <Nr>21</Nr>
+      <Pali>Pakiṇṇaka Vagga</Pali>
+      <Title>Miscellaneous</Title>
+      <Verses />
+    </Chapter>
+    <Chapter>
+      <FirstParagraph>306</FirstParagraph>
+      <LastParagraph>319</LastParagraph>
+      <Nr>22</Nr>
+      <Pali>Niraya Vagga</Pali>
+      <Title>Woeful State</Title>
+      <Verses />
+    </Chapter>
+    <Chapter>
+      <FirstParagraph>320</FirstParagraph>
+      <LastParagraph>333</LastParagraph>
+      <Nr>23</Nr>
+      <Pali>Nāga Vagga</Pali>
+      <Title>The Elephant</Title>
+      <Verses />
+    </Chapter>
+    <Chapter>
+      <FirstParagraph>334</FirstParagraph>
+      <LastParagraph>359</LastParagraph>
+      <Nr>24</Nr>
+      <Pali>Taṇhā Vagga</Pali>
+      <Title>Craving</Title>
+      <Verses />
+    </Chapter>
+    <Chapter>
+      <FirstParagraph>360</FirstParagraph>
+      <LastParagraph>382</LastParagraph>
+      <Nr>25</Nr>
+      <Pali>Monk Vagga</Pali>
+      <Title>The Monk Or The Mendicant</Title>
+      <Verses />
+    </Chapter>
+    <Chapter>
+      <FirstParagraph>383</FirstParagraph>
+      <LastParagraph>423</LastParagraph>
+      <Nr>26</Nr>
+      <Pali>Brāhmaṇa Vagga</Pali>
+      <Title>The Brāhmaṇa</Title>
+      <Verses />
+    </Chapter>
+  </Chapters>
+</Dhammapada>
