@@ -21,9 +21,9 @@ angular
         templateUrl: 'views/main.html',
         controller: 'MainCtrl'
       })
-      .when('/chapter/:chapter/verse/:verse', {
-        templateUrl: 'views/chapter.html',
-        controller: 'ChapterCtrl'
+      .when('/verse/:verse', {
+        templateUrl: 'views/verse.html',
+        controller: 'VerseCtrl'
       })
       .otherwise({
         redirectTo: '/'

@@ -1,0 +1,37 @@
+<div class="page-header">
+  <h1>
+    {{verse.chapter.Pali}} - {{verse.chapter.Title}}
+  </h1> 
+</div>
+
+
+
+<div class="panel panel-default">
+  <div class="panel-heading">
+    <div class="row">
+      <div class="col-sm-11"><h4>{{verse.summary}}</h4></div>
+      <div class="col-sm-1"><h4><a ng-click="togglestory()"><span class="glyphicon glyphicon-book"></span></a></h4></div>
+    </div>
+  </div>
+  <div class="panel-body">
+    <div class="row" ng-show="!story">
+      <div class="col-sm-6" >
+        <img width="338" ng-src="images/hi/dhp_{{verse.nr}}.jpg"/>
+      </div>
+
+      <div class="col-sm-5" style="height: 364;">
+        <p class="text-center"><em>{{verse.text}}</em></p>
+        <p class="text-right">- Verse {{verse.nr}}</p>
+      </div>
+    </div>
+    <h2 ng-show="story">{{verse.story.title}}</h2>
+    <p ng-show="story" ng-repeat="paragraph in verse.story.text|nlToArray track by $index">{{paragraph}}</p>
+    
+  </div>
+</div>
+
+<ul class="pager">
+  <li><a ng-href="#/verse/{{prev}}"><span class="glyphicon glyphicon-chevron-left"></a></li>
+  <li><a ng-href="#/verse/{{next}}"><span class="glyphicon glyphicon-chevron-right"></a></li>
+</ul>
+

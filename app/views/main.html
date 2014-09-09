@@ -1,20 +1,22 @@
 <div class="jumbotron">
-  <h1>'Allo, 'Allo!</h1>
+  <h1>The Dhammapada</h1>
   <p class="lead">
-    <img src="images/yeoman.png" alt="I'm Yeoman"><br>
-    Always a pleasure scaffolding your apps.
-  </p>
-  <p><a class="btn btn-lg btn-success" ng-href="#">Splendid!<span class="glyphicon glyphicon-ok"></span></a></p>
+  <img src="images/Buddha.png" alt="The Buddha"><br>
+  The Dhammapada (Pāli) is a collection of sayings of the Buddha in verse form and one of the most widely read and best known Buddhist scriptures.
 
+  </p>
+  <p>
+  Based on the translation by Ven. Narada
+  </p>
 </div>
 
-Here come the chapters!
-
 <div>
-  <ol>
+  <ul>
     <li ng-repeat="chapter in Book.Chapters">
-    {{chapter.Nr}} - {{chapter.Pali}} - {{chapter.Title}}
+    <h3>
+      <a ng-href="#/verse/{{chapter.FirstParagraph}}">{{chapter.Pali}} - {{chapter.Title}}</a>
+    </h3>
     </li>
-  </ol>
+  </ul>
 </div>
 

@@ -9,5 +9,5 @@
  */
 angular.module('dhammapadaApp')
 .controller('MainCtrl', function ($scope, dataProvider) {
-  $scope.Book = dataProvider.Dhammapada.get();
+  dataProvider.Dhammapada.then(function(d) { $scope.Book = d; });
 });
